@@ -1,3 +1,4 @@
+//this is the program for tic-tac-toe
 let boxes = document.querySelectorAll(".box");
 let resetBtn = document.querySelector("#Reset");
 let newgame = document.querySelector("#new-gm");
